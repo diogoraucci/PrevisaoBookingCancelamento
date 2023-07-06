@@ -35,7 +35,7 @@ Este repositório foi desenvolvido como objeto de estudos para tentar analizar a
 
 
 # Para executar este código é necessário:
-- Ter as libs utilizadas nessenotebook.
+- Ter as libs utilizadas nesse notebook instaladas.
 - Baixar o conjunto de dados utilizado.
 
 # Autor
