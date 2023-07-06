@@ -1,5 +1,5 @@
 # PrevisaoBookingCancelamento
-Previsão cancelamentos de reservas de hospedagem.
+Prever cancelamentos de reservas de hospedagem.
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/diogoraucci/Cotacoes_MT5/blob/main/LICENSE)
 
